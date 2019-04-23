@@ -1,7 +1,0 @@
-<!-- Bootstrap JS -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js">
-</script>
-
-<nav class="navbar fixed-top navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">{Title}</a>
-</nav>
